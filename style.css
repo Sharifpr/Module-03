@@ -1,3 +1,10 @@
+.maindiv{
+    color: rgb(209, 208, 224);
+    background-color: rgb(240, 3, 3);
+    text-align: center;
+   padding: 10px;
+}
+
 .div1{
     background-color: rgb(166, 255, 0);
     text-align: center;
@@ -7,9 +14,19 @@
 }
 .div1 a{
     text-decoration: none;
-    margin: 15px;
+    margin: 25px;
     border: 2px solid rgb(255, 94, 0);
     border-radius: 15px;
     padding: 8px;
     background: url();
+}
+.bodydiv{
+    color: indigo;
+    background-color: lightblue;
+    padding: 10px;
+    text-align: justify;
+    border: 2px solid gold;
+    border-radius: 10px ;
+    width: 400px;
+    margin-top: 50px;
 }
