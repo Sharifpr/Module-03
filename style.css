@@ -1,4 +1,8 @@
 .maindiv{
+    background: rgb(136, 12, 33);
+    margin: 0 auto;
+}
+.headdiv{
     color: rgb(209, 208, 224);
     background-color: rgb(240, 3, 3);
     text-align: center;
@@ -18,15 +22,20 @@
     border: 2px solid rgb(255, 94, 0);
     border-radius: 15px;
     padding: 8px;
-    background: url();
+    
 }
 .bodydiv{
     color: indigo;
     background-color: lightblue;
-    padding: 10px;
     text-align: justify;
-    border: 2px solid gold;
-    border-radius: 10px ;
-    width: 400px;
-    margin-top: 50px;
+    margin: 0 auto;
+    padding: 20px;
+    
+   
+}
+.footer{
+    color: hotpink;
+    color: lawngreen;
+    text-align: center;
+    padding: 5px;
 }
