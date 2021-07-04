@@ -1,6 +1,10 @@
+*{
+    margin: o;
+    padding: 0;
+}
 .maindiv{
-    background: rgb(136, 12, 33);
-    margin: 0 auto;
+    height: 300px;
+   
 }
 .headdiv{
     color: rgb(209, 208, 224);
@@ -30,6 +34,7 @@
     text-align: justify;
     margin: 0 auto;
     padding: 20px;
+    margin-top: -10px;
     
    
 }
@@ -38,4 +43,13 @@
     color: lawngreen;
     text-align: center;
     padding: 5px;
+}
+.ssss{
+    width: 100%;
+
+}
+.ssss img{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
